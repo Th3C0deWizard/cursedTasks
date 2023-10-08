@@ -9,4 +9,4 @@ class TaskModel:
         self.done = done
 
     def save(self):
-        self.db()
+        pass
